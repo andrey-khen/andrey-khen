@@ -1,24 +1,14 @@
-### Hey there 👋
+## Hi, I'm Andrey
 
-I'm **neX3no** (Andrew), a 2nd-year Computer Science student at Inha University in Tashkent.
+I'm a third-year Computer Science student at Inha University in Tashkent, learning backend development in Python.
 
-My current primary focus is **Python Development and Machine Learning**. I am actively leveling up my knowledge in Python Core, Data Structures, and Algorithms, with a goal to secure a Python internship by Spring 2026.
+**What I'm doing now**
 
-#### Tech Stack & Tools
-* **Languages:** Python
-* **Data & ML Focus:** NumPy, Pandas, Scikit-learn (in progress)
-* **Infrastructure & Tools:** Git, Docker, SQL
-* **Organization:** Notion
+- Learning FastAPI, PostgreSQL, Docker and pytest, and building small backend projects as I go. They'll show up below once they're ready.
+- Programming Metro Anomaly, a PC horror game in Unity, with my team KEXO.
 
-#### Current Execution Thread
-* Deepening Python knowledge (OOP, Clean Code) and solving NeetCode algorithms.
-* Developing a CLI Data Parser with automated logging and data extraction.
-* Expanding mathematics foundations (Algebra, Precalculus).
-* Looking forward to building a production-ready ML service (planning to use gameplay data from my completed indie game *Metro Anomaly*).
+**Tools I use:** Python, SQL, Git
 
-#### Fun Facts
-* **Sports:** Basketball .
-* **Gaming:** Life is Strange, The Witcher 3.
-* **Hobbies:** Anime, manga, reading (currently: *The Book Thief*).
-* **Food:** Huge fan of hotdogs.
-* **Companions:** I have a cat.
+**Find me:** [LinkedIn](https://www.linkedin.com/in/andrey-khen)
+
+Off the keyboard I play basketball.
